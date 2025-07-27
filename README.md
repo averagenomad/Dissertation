@@ -1,9 +1,8 @@
 # **Multidisciplinary Approach to Civil Conflict: Political, Economic, and Social Determinants of Violence**  
 
 ![Language](https://img.shields.io/badge/language-Stata-blue.svg)
-![Status](https://img.shields.io/badge/status-archived-lightgrey.svg)
+![Status](https://img.shields.io/badge/status-complete-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-academic-green.svg)
-![Last Commit](https://img.shields.io/github/last-commit/averagenomad/civil-conflict-dissertation)
 
 ## **Overview**  
 This repository archives the research, code, and outputs associated with the dissertation:  
