@@ -56,7 +56,7 @@ The full dissertation is **publicly available via Claremont Graduate Universityâ
 ## **Citation**  
 If referencing this work, please cite the official dissertation:  
 
-> **J. Klycheva (2023). Multidisciplinary Approach to Civil Conflict: Political, Economic, and Social Determinants of Violence. Claremont Graduate University.**  
+> **Z. Klycheva (2023). Multidisciplinary Approach to Civil Conflict: Political, Economic, and Social Determinants of Violence. Claremont Graduate University.**  
 > [https://scholarship.claremont.edu/cgu_etd/541/](https://scholarship.claremont.edu/cgu_etd/541/)  
 
 ---
