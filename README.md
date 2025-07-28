@@ -1,6 +1,6 @@
 # **Multidisciplinary Approach to Civil Conflict: Political, Economic, and Social Determinants of Violence**  
 
-![Language](https://img.shields.io/badge/language-Stata-R-blue.svg)
+![Languages](https://img.shields.io/badge/languages-Stata%20%7C%20R-blue.svg)
 ![Status](https://img.shields.io/badge/status-complete-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-academic-green.svg)
 
